@@ -1,0 +1,12 @@
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\bin\Debug\net6.0\ProjetoTesteFST2.deps.json
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\bin\Debug\net6.0\ProjetoTesteFST2.dll
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\bin\Debug\net6.0\ProjetoTesteFST2.pdb
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ProjetoTesteFST2.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ProjetoTesteFST2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ProjetoTesteFST2.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ProjetoTesteFST2.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ProjetoTesteFST2.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ProjetoTesteFST2.dll
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\refint\ProjetoTesteFST2.dll
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ProjetoTesteFST2.pdb
+C:\Users\odirlei\Documents\CTM\Fullstack Turma 2\UC15 - ER2\ProjetoTesteFST2\ProjetoTesteFST2\obj\Debug\net6.0\ref\ProjetoTesteFST2.dll

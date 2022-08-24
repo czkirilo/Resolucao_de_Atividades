@@ -1,0 +1,15 @@
+Adicionar à classe base de pessoa jurídica e pessoa física, o método de pagar imposto, seguindo as seguintes instruções:
+
+- Pessoa física
+	Para rendimentos até 1500, isento
+	Para rendimentos entre 1501 e 3500, 2%
+	Para rendimentos entre 3501 e 6000, 3,5%
+	para rendimentos acima de 6000, 55
+
+- Pessoa jurídica
+	Para Rendimentos até 3000, 3%
+	Para rendimentos entre 3001 e 6000, 5%
+	Para rendimentos entre 6001 e 10000, 7%
+	Para rendimentos acima de 10000, 9%
+
+Explicar If ternario, usado no program para nao mostrar true ou false para retorno dos metodos.

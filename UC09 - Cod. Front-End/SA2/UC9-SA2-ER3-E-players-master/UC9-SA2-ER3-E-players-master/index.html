@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - E-Players</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body onload="renderizarNoticias()">
+    <header>
+        <div class="container-grid posicionamento-header">
+            <a href="#"><img src="img/logo.svg" alt="Logo do site E-Players"></a>
+            <nav id="menu" class="menu">
+                <a href="#">Início</a>
+                <a href="#">Horários</a>
+                <a href="#">Campeonatos</a> 
+                <a href="#">Resultados</a>
+                <a href="#">Notícias</a>
+            </nav>
+            <a href="#" onclick="mostrarMenu()"><img class="barras" src="img/bars.svg" alt="Menu de barras"></a>
+        </div>
+    </header>
+    <div class="banner">
+        <div class="container-grid posicao-texto">
+            <div class="texto-banner">
+                <h1>Liga E-Players</h1> 
+                <p>O maior portal de campeonatos online</p>
+                <a href="">Inscreva-se</a>
+            </div>
+        </div>
+    </div>
+    <section class="secao-jogos">
+        <div class="jogos container">
+            <a href="#"><img src="img/f1-logo.png" alt="Logo da Fórmula 1"></a>
+            <a href="#"><img src="img/lol-logo.png" alt="Logo do League of Legends"></a>
+            <a href="#"><img src="img/cs-logo.png" alt="Logo do Counter-Strike"></a>
+            <a href="#"><img src="img/valorant.png" alt="Logo do valorant"></a>
+            <a href="#"><img src="img/fifa.png" alt="Logo do fifa"></a>
+        </div>
+    </section>
+    <section class="secao-sobre">
+        <div class="conteudo-sobre container">
+            <div class="row alinhar-centro">
+                <div class="texto-sobre col">
+                    <h2>Como participar das ligas?</h2>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+                        popularised in the .</p>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book.</p>
+                </div>
+                <div class="container-imagem col">
+                    <img src="img/campeao-lol.png" alt="Imagem do campeao do lol, Ezreal">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="secao-partidas">
+        <div class="partidas container">
+            <div class="games-aovivo">
+                <h2>Ao<br>Vivo</h2>
+                <div class="partida">
+                    <div class="time1">
+                        <p>SK</p>
+                        <img src="img/SK 1.png" alt="Logo do time 1">
+                    </div>
+                    <p>VS</p>
+                    <div class="time2">
+                        <img src="img/SK 1.png" alt="Logo time 2">
+                        <p>VRS</p>
+                    </div>
+                </div>
+            </div>
+            <div class="games-embreve">
+                <h2>Em<br>Breve</h2>
+                <div class="partida">
+                    <div class="time1">
+                        <p>SK</p>
+                        <img src="img/SK 1.png" alt="Logo do time 1">
+                    </div>
+                    <p>VS</p>
+                    <div class="time2">
+                        <img src="img/SK 1.png" alt="Logo time 2">
+                        <p>VRS</p>
+                    </div>
+                </div>
+                <div class="partida">
+                    <div class="time1">
+                        <p>SK</p>
+                        <img src="img/SK 1.png" alt="Logo do time 1">
+                    </div>
+                    <p>VS</p>
+                    <div class="time2">
+                        <img src="img/SK 1.png" alt="Logo time 2">
+                        <p>VRS</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="secao-noticias">
+        <div class="container">
+            <div class="bloco-noticias">
+                <h2>Notícias</h2>
+                <div id="espaco-noticias" class="content-news">
+                    <div class="cardnews">
+                        <img src="img/cardnews.jpg" alt="Foto da jogadora profissional">
+                        <h3>Título da notícia</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil doloremque sed nobis
+                            aliquam nam saepe assumenda, distinctio nulla tempora velit.</p>
+                    </div>
+                    <div class="cardnews">
+                        <img src="img/cardnews.jpg" alt="Foto da jogadora profissional">
+                        <h3>Título da notícia</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil doloremque sed nobis
+                            aliquam nam saepe assumenda, distinctio nulla tempora velit.</p>
+                    </div>
+                    <div class="cardnews">
+                        <img src="img/cardnews.jpg" alt="Foto da jogadora profissional">
+                        <h3>Título da notícia</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil doloremque sed nobis
+                            aliquam nam saepe assumenda, distinctio nulla tempora velit.</p>
+                    </div>
+                    <div class="cardnews">
+                        <img src="img/cardnews.jpg" alt="Foto da jogadora profissional">
+                        <h3>Título da notícia</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil doloremque sed nobis
+                            aliquam nam saepe assumenda, distinctio nulla tempora velit.</p>
+                    </div>
+                    <div class="cardnews">
+                        <img src="img/cardnews.jpg" alt="Foto da jogadora profissional">
+                        <h3>Título da notícia</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil doloremque sed nobis
+                            aliquam nam saepe assumenda, distinctio nulla tempora velit.</p>
+                    </div>
+                    <div class="cardnews">
+                        <img src="img/cardnews.jpg" alt="Foto da jogadora profissional">
+                        <h3>Título da notícia</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil doloremque sed nobis
+                            aliquam nam saepe assumenda, distinctio nulla tempora velit.</p>
+                    </div> 
+                </div>
+            </div>
+            <aside class="next-games">
+                <h2>Próximos Jogos</h2>
+                <div class="next-games-bg">
+                    <div class="next-games-match">
+                        <div class="teams">
+                            <div>
+                                <p>VRS</p>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                            </div>
+                            <p>VS</p>
+                            <div>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                                <p>SK</p>
+                            </div>
+                        </div>
+                        <!--Fim Teams-->
+                        <p>03/12/2020 19:00</p>
+                    </div>
+                    <!--Fim Games Match-->
+                    <div class="next-games-match">
+                        <div class="teams">
+                            <div>
+                                <p>VRS</p>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                            </div>
+                            <p>VS</p>
+                            <div>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                                <p>SK</p>
+                            </div>
+                        </div>
+                        <!--Fim Teams-->
+                        <p>03/12/2020 19:00</p>
+                    </div>
+                    <!--Fim Games Match-->
+                    <div class="next-games-match">
+                        <div class="teams">
+                            <div>
+                                <p>VRS</p>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                            </div>
+                            <p>VS</p>
+                            <div>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                                <p>SK</p>
+                            </div>
+                        </div>
+                        <!--Fim Teams-->
+                        <p>03/12/2020 19:00</p>
+                    </div>
+                    <!--Fim Games Match-->
+
+                    <div class="next-games-match">
+                        <div class="teams">
+                            <div>
+                                <p>VRS</p>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                            </div>
+                            <p>VS</p>
+                            <div>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                                <p>SK</p>
+                            </div>
+                        </div>
+                        <!--Fim Teams-->
+                        <p>03/12/2020 19:00</p>
+                    </div>
+                    <!--Fim Games Match-->
+                    <div class="next-games-match">
+                        <div class="teams">
+                            <div>
+                                <p>VRS</p>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                            </div>
+                            <p>VS</p>
+                            <div>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                                <p>SK</p>
+                            </div>
+                        </div>
+                        <!--Fim Teams-->
+                        <p>03/12/2020 19:00</p>
+                    </div>
+                    <!--Fim Games Match-->
+                    <div class="next-games-match">
+                        <div class="teams">
+                            <div>
+                                <p>VRS</p>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                            </div>
+                            <p>VS</p>
+                            <div>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                                <p>SK</p>
+                            </div>
+                        </div>
+                        <!--Fim Teams-->
+                        <p>03/12/2020 19:00</p>
+                    </div>
+                    <!--Fim Games Match-->
+                    <div class="next-games-match">
+                        <div class="teams">
+                            <div>
+                                <p>VRS</p>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                            </div>
+                            <p>VS</p>
+                            <div>
+                                <img src="img/SK 1.png" alt="Logo do Time">
+                                <p>SK</p>
+                            </div>
+                        </div>
+                        <!--Fim Teams-->
+                        <p>03/12/2020 19:00</p>
+                    </div>
+                    <!--Fim Games Match-->
+
+                </div>
+            </aside>
+        </div>
+    </section>
+    <footer>
+        <div class="container rodape">
+            <div class="links-footer">
+                <div class="links">
+                    <h2>Links Úteis</h2>
+                    <ul>
+                        <li><a href="#">Regras de utilização</a></li>
+                        <li><a href="#">Suporte</a></li>
+                        <li><a href="#">Central de Ajuda</a></li>
+                        <li><a href="#">Contato</a></li>
+                    </ul>
+                </div>
+                <div class="links">
+                    <h2>Páginas</h2>
+                    <ul>
+                        <li><a href="#">Início</a></li>
+                        <li><a href="#">Campeonatos</a></li>
+                        <li><a href="#">Resultados</a></li>
+                        <li><a href="#">Notícias</a></li>
+                        <li><a href="#">Login/Cadastro</a></li>
+                    </ul>
+                </div>
+            </div>
+            <img class="logo-rodape" src="img/logo.svg" alt="Logo E-Players">
+            <div class="sociais">
+                <h2>Faça parte do nosso clan, receba notícias e promoções!</h2>
+
+                <form action="">
+                    <input id="campo-email" type="email" placeholder="E-mail" required>
+                    <button onclick="cadastrarEmail()">Cadastrar</button>                
+                </form>
+
+                <div class="siga-nos">
+                    <h2>Siga-nos em:</h2>
+                    <a href="#"><img src="img/logo-instagram.png" alt="Logo do Instagram"></a>
+                    <a href="#"><img src="img/logo-facebook.png" alt="Logo do Facebook"></a>
+                    <a href="#"><img src="img/logo-yt.png" alt="Logo do Youtube"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script>
+        let menu = document.getElementById("menu");
+
+        function mostrarMenu() {
+            if (menu.style.display != "flex") {
+                menu.style.display = "flex"
+            } else {
+                menu.style.display = "none"
+            }
+        }
+    </script>
+    <script src="js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

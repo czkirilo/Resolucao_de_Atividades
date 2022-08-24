@@ -1,0 +1,15 @@
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\bin\Debug\net6.0\CadastroPessoaFST2.exe
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\bin\Debug\net6.0\CadastroPessoaFST2.deps.json
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\bin\Debug\net6.0\CadastroPessoaFST2.runtimeconfig.json
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\bin\Debug\net6.0\CadastroPessoaFST2.dll
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\bin\Debug\net6.0\ref\CadastroPessoaFST2.dll
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\bin\Debug\net6.0\CadastroPessoaFST2.pdb
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.csproj.AssemblyReference.cache
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.AssemblyInfoInputs.cache
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.AssemblyInfo.cs
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.dll
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\ref\CadastroPessoaFST2.dll
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.pdb
+C:\Users\Odirlei\Desktop\CadastroPessoaFST2\obj\Debug\net6.0\CadastroPessoaFST2.genruntimeconfig.cache

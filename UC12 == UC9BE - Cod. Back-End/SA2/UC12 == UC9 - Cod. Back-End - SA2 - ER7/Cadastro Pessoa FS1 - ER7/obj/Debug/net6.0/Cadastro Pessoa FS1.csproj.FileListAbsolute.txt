@@ -1,0 +1,90 @@
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER3\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER4\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER5\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER6\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\Odirlei\Documents\CTM\Fullstack Turma 1\UC12 - SA2 - ER7\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache

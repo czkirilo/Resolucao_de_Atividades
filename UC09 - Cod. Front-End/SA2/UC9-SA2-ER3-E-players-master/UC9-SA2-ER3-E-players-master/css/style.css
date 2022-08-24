@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Titillium+Web&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-grid{
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header{
+    background-color: #1E1C21; 
+    height: 80px;
+}
+.menu{
+    width: 660px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.barras{
+    width: 30px;
+    display: none;
+}
+
+.banner{
+    background-image: url(../img/banner.png);
+    height: 600px;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.posicao-texto{
+    justify-content: flex-end;
+}
+
+.texto-banner{
+    width: 495px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+.texto-banner h1{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.texto-banner a{
+    background-color: #C31616;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.texto-banner p{
+    margin-bottom: 50px;
+}
+.secao-jogos{
+    background-color: black;
+}
+
+.jogos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.jogos img{
+    width: 150px;
+}
+.secao-sobre{
+    background-image: url(../img/Fundo.png);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.texto-sobre{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.secao-partidas {
+    background-color: black;
+    height: 90px;
+}
+
+.partidas {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.games-aovivo {
+    width: 300px;
+}
+
+.games-embreve {
+    width: 550px;
+}
+
+.games-aovivo, .games-embreve{
+    display: flex;
+    color:#fff;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.partidas h2 {
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.partida{
+    width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.partida p {
+    margin-bottom: 0;
+}
+
+.time1, .time2{
+    display: flex;
+    align-items: center;
+}
+.partida img{
+    width: 28px;
+}
+.time1 img{
+    margin-left: 8px;
+}
+.time2 img{
+    margin-right: 8px;
+}
+
+.secao-noticias {
+    background-color: #1E1C21;
+    padding: 30px 0 ;
+}
+
+.secao-noticias .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bloco-noticias{
+    width: 70%;
+    height: 90%;
+    color: white;
+}
+
+.bloco-noticias h2 {
+    font-size: 25px;
+}
+
+.content-news{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.cardnews{
+    width: 15em;
+    height: 22.5em;
+    background: var(--gradient);
+    color: #fff;
+    margin-bottom: 32px;
+    box-shadow: 0px 0px 10px black,0px 0px 30px black;
+}
+
+.cardnews h3{
+    font-size: 24px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.cardnews p {
+    font-size: 16px;
+    padding-left: 16px;
+}
+.next-games{
+    width: 25%;
+}
+.next-games h2{
+    font-size: 25px;
+    color: white;
+    margin-bottom: 25px;
+}
+.next-games-bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: auto;
+    padding: 16px;
+    background: var(--gradient);
+    box-shadow: 0px 0px 10px black, 0px 0px 30px black;
+}
+.next-games-match{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-weight: 700;
+}
+.teams{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.next-games-match img{
+    max-width: 40px;
+}
+.next-games-match p{
+    margin-top: 16px;
+}
+.next-games-match div{
+    display: flex;
+    align-items: center;
+}
+footer{
+    background-color: black;
+}
+.rodape{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
+.links{
+    color: white;
+}
+.links h2{
+    font-size: 24px;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+.links-footer{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+.logo-rodape{
+    width: 300px;
+}
+.sociais h2{
+    color: white;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+.sociais form{
+    display: flex;
+    margin-bottom: 8px;
+}
+.sociais input[type="email"]{
+    height: 37px;
+    width: 195px;
+}
+.sociais input[type="email"]::placeholder{
+    color: B8B3B3;
+    font-weight: bold;
+}
+button{
+    width: 156px;
+    color: white;
+    background-color: #001F70;
+    border: none;
+    font-size: 18px;
+}
+.siga-nos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 6px;
+}
+@media screen and (max-width: 1200px) {
+    .container-grid{
+        width: 90%;
+    }
+    .menu{
+        width: 460px;
+    }
+    .menu a{
+        font-size: 16px;
+    }
+    .logo{
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    h1{
+        color:blue;
+    }
+    .barras{
+        display: inline-block;
+    }
+    .menu{
+        display: none;
+        flex-direction: column;
+        width: 200px;
+        position: absolute;
+        top: 0;
+        right: 65px;
+        background-color: black;
+    }
+    .menu a{
+        text-align: center;
+        padding: 15px;
+    }
+    .posicionamento-header{
+        position: relative;
+    }
+}
